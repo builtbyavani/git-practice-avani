@@ -1,4 +1,4 @@
-I am learning Git and GitHub.
+Git makes teamwork easier.
 Git tracks changes in my file.
 Each commit saves a checkpoint.
 This line was added on a feature branch.
